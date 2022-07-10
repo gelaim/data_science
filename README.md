@@ -21,6 +21,7 @@ labels:
 * Hypothesis testing: :star: :star:
 * Mean, variance and standard deviation: :star: :star:
 * Population and Estimated Parameters: :star: :star:
+* Probability: :star: :star:
 * Probability distributions: :star: :star:
 * R-Squared: :star: :star:
 * Statistical Power: :star: :star:
