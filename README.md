@@ -15,6 +15,7 @@ labels:
 
 ###
 
+* Bootstrapping: :star: :star:
 * Correlation: :star: :star:
 * Covariance: :star: :star:
 * Histogram: :star: :star:
@@ -25,4 +26,5 @@ labels:
 * Probability distributions: :star: :star:
 * R-Squared: :star: :star:
 * Statistical Power: :star: :star:
+* Standard Error: :star: :star:
 * The Central Limit Theorem: :star: :star:
