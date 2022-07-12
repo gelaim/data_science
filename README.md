@@ -21,6 +21,7 @@ labels:
 * Histogram: :star: :star:
 * Hypothesis testing: :star: :star:
 * Mean, variance and standard deviation: :star: :star:
+* Odds: :star: :star:
 * Population and Estimated Parameters: :star: :star:
 * Probability: :star: :star:
 * Probability distributions: :star: :star:
