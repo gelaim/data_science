@@ -1,0 +1,3 @@
+- train test split
+- variance
+- bias variance tradeoff
