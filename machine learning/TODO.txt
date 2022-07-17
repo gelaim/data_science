@@ -1,3 +1,5 @@
 - train test split
-- variance
 - bias variance tradeoff
+- R-squared
+- MSE
+- RMSE
