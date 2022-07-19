@@ -40,6 +40,7 @@ labels:
 
 * Bias: :star: :star:
 * Linear Regression: :star: :star:
+* Overfitting: :star: :star:
 * Variance: :star: :star:
 
 ### Pytorch
